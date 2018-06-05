@@ -18,7 +18,7 @@ source=("https://github.com/ayufan-rock64/linux-mainline-kernel/archive/ayufan-r
         'linux.preset'
         '99-linux.hook')
 md5sums=('0e6cb96a8a42ac1a474ef26bc058727c'
-         '773c102c0d773d2a3fcda124b6b00f60'
+         '7ca9a8095b51362183df982b7fada2d3'
          'b5ef67d6086e20de7b82265f562f88b1'
          '1d4477026533efaa0358a40855d50a83')
 
